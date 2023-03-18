@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on 5G Coin
 - 📫 How to reach me: Telegram or VK
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love beer and ilya
 
 <!--
