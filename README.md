@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 big ben and his gang ❤️
 - 🔭 I’m currently working on crypto currency
 - 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on 5G Coin
+- 👯 I want to cooperate with 5 G Coin
 - 📫 How to reach me: Telegram or VK
 - ⚡ Fun fact: I love beer and ilya
 
