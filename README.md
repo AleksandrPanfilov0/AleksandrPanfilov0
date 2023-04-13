@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C++
 - 👯 I want to cooperate with 5 G Coin
 - 📫 How to reach me: Telegram or VK
-- ⚡ Fun fact: I love beer and ilya(no homo)
 
 <!--
 **AleksandrPanfilov0/AleksandrPanfilov0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
