@@ -1,4 +1,4 @@
-### Hi there 👋 big ben and his gang ❤️
+### Hi there 👋 Aleksandr Investor❤️
 - 🔭 I’m currently working on crypto currency
 - 🌱 I’m currently learning C++
 - 👯 I want to cooperate with 5 G Coin
